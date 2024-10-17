@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\David Nikolv\\Desktop\\JABFE\\Git-lab\\GitExercise\\GitExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E54BA792-0D27-49D5-AA58-18D467780F6E}|GitExercise.csproj|c:\\users\\david nikolv\\desktop\\jabfe\\git-lab\\gitexercise\\gitexercise\\optionsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54BA792-0D27-49D5-AA58-18D467780F6E}|GitExercise.csproj|solutionrelative:optionsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54BA792-0D27-49D5-AA58-18D467780F6E}|GitExercise.csproj|c:\\users\\david nikolv\\desktop\\jabfe\\git-lab\\gitexercise\\gitexercise\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54BA792-0D27-49D5-AA58-18D467780F6E}|GitExercise.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OptionsManager.cs",
+              "DocumentMoniker": "C:\\Users\\David Nikolv\\Desktop\\JABFE\\Git-lab\\GitExercise\\GitExercise\\OptionsManager.cs",
+              "RelativeDocumentMoniker": "OptionsManager.cs",
+              "ToolTip": "C:\\Users\\David Nikolv\\Desktop\\JABFE\\Git-lab\\GitExercise\\GitExercise\\OptionsManager.cs",
+              "RelativeToolTip": "OptionsManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:14:31.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\David Nikolv\\Desktop\\JABFE\\Git-lab\\GitExercise\\GitExercise\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\David Nikolv\\Desktop\\JABFE\\Git-lab\\GitExercise\\GitExercise\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwDIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:14:28.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
