@@ -8,6 +8,7 @@ namespace GitExercise
             "a - Add",
             "s - Subtract",
             "m - Multiply",
+            "d - Devide",
             "dr - Devide Remainder",
             "ex - Exit"
         };
@@ -27,9 +28,19 @@ namespace GitExercise
             Console.WriteLine($"{a} - {b} = {a - b}");
         }
 
+
         public static void DivideRemainder(double a, double b)
         {
             Console.WriteLine($"{a} % {b} = {a % b} :f2");
+        }
+
+        public static void Devide(double a, double b)
+        {
+            Console.WriteLine($"{a} / {b} = {a / b}");
+        }
+        public static void AbsoluteDevision(double a, double b)
+        {
+            Console.WriteLine($"{a} - {b} = {Math.Abs(a - b)}");
         }
     }
 }

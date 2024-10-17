@@ -1,11 +1,26 @@
 ﻿using System;
+using System.Runtime.CompilerServices;
 
 namespace GitExercise
 {
     public class Startup
     {
+        private static bool CheckCredentials()
+            {
+            Console.Write("Enter pass:");
+            string pass = Console.ReadLine();
+            return pass == Pass;
+            }
+        private const string Pass = "abcd1234";
         public static void Main()
         {
+            bool isAuthorized = CheckCredentials();
+            if (!isAuthorized)
+            {
+                Console.WriteLine("Access denied");
+                Console.ReadKey(intercept: true);
+                return;
+            }
             Console.WriteLine("Console Calculator App");
             Console.WriteLine(new string('-', 15));
 
@@ -26,6 +41,7 @@ namespace GitExercise
 
             while (true)
             {
+
                 Console.Clear();
                 Console.WriteLine("Console Calculator App");
                 Console.WriteLine(new string('-', 15));
@@ -43,6 +59,9 @@ namespace GitExercise
                         break;
                     case "dr":
                         OptionsManager.DivideRemainder(a, b);
+                        break;
+                    case "d":
+                        OptionsManager.Devide(a, b);
                         break;
                     case "ex":
                         Console.Clear();

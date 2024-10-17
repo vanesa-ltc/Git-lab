@@ -1,0 +1,14 @@
+C:\Users\User\AppData\Roaming\.minecraft\versions\Ghost Town\saves\Git-lab\GitExercise\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.exe
+C:\Users\User\AppData\Roaming\.minecraft\versions\Ghost Town\saves\Git-lab\GitExercise\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.deps.json
+C:\Users\User\AppData\Roaming\.minecraft\versions\Ghost Town\saves\Git-lab\GitExercise\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.runtimeconfig.json
+C:\Users\User\AppData\Roaming\.minecraft\versions\Ghost Town\saves\Git-lab\GitExercise\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.runtimeconfig.dev.json
+C:\Users\User\AppData\Roaming\.minecraft\versions\Ghost Town\saves\Git-lab\GitExercise\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.dll
+C:\Users\User\AppData\Roaming\.minecraft\versions\Ghost Town\saves\Git-lab\GitExercise\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.pdb
+C:\Users\User\AppData\Roaming\.minecraft\versions\Ghost Town\saves\Git-lab\GitExercise\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\AppData\Roaming\.minecraft\versions\Ghost Town\saves\Git-lab\GitExercise\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.AssemblyInfoInputs.cache
+C:\Users\User\AppData\Roaming\.minecraft\versions\Ghost Town\saves\Git-lab\GitExercise\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.AssemblyInfo.cs
+C:\Users\User\AppData\Roaming\.minecraft\versions\Ghost Town\saves\Git-lab\GitExercise\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.csproj.CoreCompileInputs.cache
+C:\Users\User\AppData\Roaming\.minecraft\versions\Ghost Town\saves\Git-lab\GitExercise\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.sourcelink.json
+C:\Users\User\AppData\Roaming\.minecraft\versions\Ghost Town\saves\Git-lab\GitExercise\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.dll
+C:\Users\User\AppData\Roaming\.minecraft\versions\Ghost Town\saves\Git-lab\GitExercise\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.pdb
+C:\Users\User\AppData\Roaming\.minecraft\versions\Ghost Town\saves\Git-lab\GitExercise\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.genruntimeconfig.cache
